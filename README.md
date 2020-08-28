@@ -1,2 +1,22 @@
 # AdventuronExample
 This repository contains instructions for how to set up a source control repo for your Adventuron game.
+
+!(images/new_repo_menu.png)
+!(images/create_new_github_repo.png)
+!(images/clone_github_repo.png)
+!(images/source_folder.png)
+!(images/create_branch.png)
+!(images/start_coding.png)
+!(images/code_template.png)
+!(images/run_game.png)
+!(images/save_file.png)
+!(images/save_source_code.png)
+!(images/git_add.png)
+!(images/git_commit.png)
+!(images/git_push.png)
+!(images/pull_request_is_suggested.png)
+!(images/create_pull_request.png)
+!(images/merge_pull_request.png)
+!(images/confitm_merge.png)
+!(images/pull_request_merged.png)
+!(images/main_branch_is_updated.png)
